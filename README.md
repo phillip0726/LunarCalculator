@@ -8,14 +8,14 @@
 ## example
 - input : `yyyy mm dd : 2019 3 24`
 - output : 
-&nbsp;```
-*********Solar Calendar***********
-Year  : 2019
-Month : 3
-Day   : 24
+```
+  *********Solar Calendar***********
+  Year  : 2019
+  Month : 3
+  Day   : 24
 
-****Translate to Lunar Calendar***
-Year  : 2019
-Month : 2
-;Day   : 18
+  ****Translate to Lunar Calendar***
+  Year  : 2019
+  Month : 2
+  Day   : 18
 ```
