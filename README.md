@@ -6,5 +6,16 @@
 - selenium : 3.141.0
 
 ## example
-`2019 3 24`
+- input : `yyyy mm dd : 2019 3 24`
 - output : 
+`
+*********Solar Calendar***********
+Year  : 2019
+Month : 3
+Day   : 24
+
+****Translate to Lunar Calendar***
+Year  : 2019
+Month : 2
+Day   : 18
+`
