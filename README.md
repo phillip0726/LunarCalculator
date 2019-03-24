@@ -6,5 +6,5 @@
 - selenium : 3.141.0
 
 ## example
-<h1>2019 3 24</h1>
+`2019 3 24`
 - output : 
